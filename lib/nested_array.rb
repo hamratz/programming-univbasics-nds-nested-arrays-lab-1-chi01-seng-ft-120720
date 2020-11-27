@@ -34,7 +34,7 @@ end
 
 def matrix_lookup(matrix, row, column)
 
-assembled_matrix[ORGANIC_PRODUCE][1]
+produce_storage_room[ORGANIC_PRODUCE][1]
   
 sorted_matrix[ORGANIC_PRODUCE][1]
   
