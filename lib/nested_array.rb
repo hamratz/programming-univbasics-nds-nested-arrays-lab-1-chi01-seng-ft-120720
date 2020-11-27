@@ -35,9 +35,9 @@ end
 def matrix_lookup(matrix, row, column)
 
 
-matrix_lookup[assembled_matrix][ORGANIC_PRODUCE][1]
-sorted_matrix[ORGANIC_PRODUCE][1]
-
+matrix_lookup = [
+  [assembled_matrix][ORGANIC_PRODUCE][1]
+  ]
   
     
 end
